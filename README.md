@@ -4,4 +4,6 @@
 
 follow our github and please give support🖥️❣️
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=H0Xcysecom&label=Profile%20views&color=0e75b6&style=flat" alt="H0Xcysecom" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=H0Xcysecom&label=Profile%20views&color=000000&style=flat" alt="H0Xcysecom" />
+</p>
