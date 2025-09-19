@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Initializing+Profile...;Welcome+to+H0Xcysec+Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=.........;Welcome+to+H0Xcysec+Github)](https://git.io/typing-svg)
 
 <p align="center">  
   <img src="https://c.top4top.io/p_35497r51g0.gif" alt="H0Xcysecom Banner" width="600"/>  
