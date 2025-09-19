@@ -4,7 +4,7 @@
   <img src="https://i.top4top.io/p_3549ikwgr0.gif" alt="H0Xcysecom Banner" width="600"/>  
 </p> 
 
-follow our github and please give support🖥️🫩
+follow our github and please give support🖥️
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=H0Xcysecom&label=Profile%20views&color=000000&style=flat" alt="H0Xcysecom" />
