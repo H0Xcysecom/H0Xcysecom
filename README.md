@@ -6,6 +6,12 @@
 
 follow our github and please give support🖥️
 
+Hello, my name is via
+gender : girl
+location  : Indonesia 
+about : this is just a regular github project 
+coding according to mood 😂❣️👊
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=H0Xcysecom&label=Profile%20views&color=000000&style=flat" alt="H0Xcysecom" />
 </p>
