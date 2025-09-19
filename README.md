@@ -6,6 +6,7 @@
 
 follow our github and please give support🖥️
 
+
 Hello, my name is via
 
 gender : girl
@@ -14,6 +15,18 @@ location  : Indonesia
 
 about : this is just a regular github project 
 coding according to mood 😂❣️👊
+
+# Tools | Favorite
+<p align="center">
+  <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" />
+  <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=H0Xcysecom&label=Profile%20views&color=000000&style=flat" alt="H0Xcysecom" />
