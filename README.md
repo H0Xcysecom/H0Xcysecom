@@ -1,13 +1,11 @@
 ### welcome to H0Xcysec github
 
-<p align="center">
-  <video width="600" autoplay loop muted playsinline>
-    <source src="https://b.top4top.io/m_354972sob0.mp4" type="video/mp4">
-    Browser kamu tidak mendukung video tag.
-  </video>
-</p>
+<p align="center">  
+  <img src="https://i.top4top.io/p_3549ikwgr0.gif" alt="H0Xcysecom Banner" width="600"/>  
+</p> 
 
-follow our github and please give support🖥️❣️
+follow our github and please give support🖥️🩶
+👾🤖a girl who likes coding 
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=H0Xcysecom&label=Profile%20views&color=000000&style=flat" alt="H0Xcysecom" />
